@@ -1,2 +1,7 @@
-# dark-fb
+# DARK FB MAMANK :V
 HELLO INI SCRIPT DARK FB REZADKIM
+==============================
+USERNAME:CARI SENDIRI :V
+PASSWORD:MANA GW TAU
+==============================
+KAN HARUS BELI, KALO MAU PM GW FREE
