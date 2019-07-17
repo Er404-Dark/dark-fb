@@ -2,7 +2,7 @@
 # coding=utf-8
 # (ZeDD) RedDemons
 # Source : Python2 Gerak"
-# DARK-FB version1.7
+# DARK-FB version1.999
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
